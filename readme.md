@@ -6,10 +6,10 @@
 
 [🔗 Página do vídeo no youtube](https://www.youtube.com/watch?v=g3xJhlxNPbw)
 
-Alterações realizadas no projeto:
+> Alterações realizadas no projeto:
 - Cor dos botões e do fundo.
 
-[🔗 Clique aqui para acessar](https://lineeiko.github.io/Calculadora/)
+[🔗 Clique aqui para acessar](https://lineeiko.github.io/calculadora/)
 
 ## 🛠 Tecnologias
 
