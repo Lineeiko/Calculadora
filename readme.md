@@ -1,6 +1,5 @@
 # Calculadora
 
-
 ![preview](./.github/preview.png)
 
 > Projeto construído do vídeo da CrisTech, ensinando como desenvolver uma calculadora.
